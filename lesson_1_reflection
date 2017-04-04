@@ -1,0 +1,40 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    You can see which line has changed and trace the mistake that might have 
+    taken place
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    You can see what changes you've made to your program
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Sometime it's just a draft and you don't want to commit that file yet. In
+    Google docs, it saves automaticlly. But in Git you have control over when
+    and what files you want to commit 
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Google doc is used to work with document, and you usually working with one
+    document at a time, rather than a system/program deals with hundred or 
+    thousands of file. Commit a thousand file is a very tidious job rather than
+    just commit hundred files at the same time
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Fill in your answer here
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Because you can always track what you've change and convert it back 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    control version for koyomin
+    
