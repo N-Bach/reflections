@@ -26,7 +26,11 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Manually saving and manually sharing your copy of work to other using
+    flash drive or email.
+    What easier is you don't have to keep track of all your work
+    What harder is it will consume lot of time for sharing or trying to revert 
+    back to older version of your work
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
